@@ -111,7 +111,7 @@ Agora substitua pelo novo arquivo baixado do link acima.
 
 ## 6. Criando um Script para Digispark no Layout ABNT2
 
-Agora que tudo está configurado, vamos adaptar um script para teclado ABNT2. O código abaixo abre um link no navegador e maximiza a tela:
+Agora que tudo está configurado, vamos adaptar um script para teclado ABNT2. O código abaixo abre um RickRoll no navegador, um FakeUpdate do windows e maximiza a tela:
 
 ```cpp
 #include "DigiKeyboard.h"
